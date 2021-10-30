@@ -1,5 +1,4 @@
-import socket,os
-import uuid
+import socket,os,uuid
 
 os.system('clear') 
 hostname = socket.gethostname()
